@@ -16,3 +16,9 @@ Used ressources:
 - [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
 - [Profanity words from Google](https://github.com/RobertJGabriel/Google-profanity-words)
 - [HC Corpora data files](https://web.archive.org/web/20160811062439/http://www.corpora.heliohost.org:80/index.html)
+
+
+Links to final products:
+- [Next Word Prediction App](https://latenightcoder0815.shinyapps.io/NextWordPrediction/)
+- [Slide deck with app presentation](http://rpubs.com/LateNIghtCoder0815/slidedeck)
+- [Milestone Report](http://rpubs.com/LateNIghtCoder0815/MilestoneReport)

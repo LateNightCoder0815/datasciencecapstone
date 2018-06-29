@@ -1,0 +1,20 @@
+@import url("//fonts.googleapis.com/css?family=Roboto");
+
+h1 {
+  font-family: 'Roboto', "Times New Roman", Times, serif;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #4d3a7d;
+}
+
+h2 {
+  font-family: 'Roboto', "Times New Roman", Times, serif;
+  font-weight: 300;
+  line-height: 1.1;
+  color: #4d3a7d;
+}
+
+body {
+  background-color: #eee;
+  font-family: 'Roboto', "Times New Roman", Times, serif;
+}
