@@ -59,12 +59,15 @@ Live application
 
 ![Picture of my app](app.png)
 ***
-- [Next Word Prediction App](https://latenightcoder0815.shinyapps.io/NextWordPrediction/)
-- [Github repository](https://github.com/LateNightCoder0815/datasciencecapstone)
-
+- <a href="https://latenightcoder0815.shinyapps.io/NextWordPrediction/" target="_top"/>Next Word Prediction App</a>
+- <a href="https://github.com/LateNightCoder0815/datasciencecapstone" target="_top"/>Github repository</a>
 
 
 Used ressources:
-- [Coursera: Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
-- [Profanity words from Google](https://github.com/RobertJGabriel/Google-profanity-words)
-- [HC Corpora data files](https://web.archive.org/web/20160811062439/http://www.corpora.heliohost.org:80/index.html)
+- <a href="https://www.coursera.org/specializations/jhu-data-science" target="_top"/>Coursera: Data Science Specialization</a>
+- <a href="https://github.com/RobertJGabriel/Google-profanity-words" target="_top"/>Profanity words from Google</a>
+- <a href="https://web.archive.org/web/20160811062439/http://www.corpora.heliohost.org:80/index.html" target="_top"/>HC Corpora data files</a>
+
+
+
+
